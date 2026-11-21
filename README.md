@@ -7,7 +7,7 @@
 
 Vancouver, BC, Canada
 
-[GitHub](https://github.com/herman-li-dev) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/herman-li-dev) · [LinkedIn](https://www.linkedin.com/in/herman-li-dev)
 
 </div>
 
@@ -78,7 +78,7 @@ A full-stack application for organizing job applications, tracking progress, and
 
 **Backend**
 
-`Java` `Spring Boot` `TypeScript` `NestJS` `REST APIs` `MyBatis-Plus`
+`Java` `Spring Boot` `Node.js` `TypeScript` `NestJS` `REST APIs` `MyBatis-Plus`
 
 </td>
 <td width="50%" valign="top">
@@ -109,15 +109,15 @@ A full-stack application for organizing job applications, tracking progress, and
 
 ## Community & Experience
 
-### [Backend Developer · AlignUp](https://www.alignup.work/)
+### [Backend Developer (Volunteer) · AlignUp](https://www.alignup.work/)
 *October 2026 – Present*
 
 Contributing to an AI-powered career platform as part of a distributed development team.
 
+- Collaborated through peer code reviews and design discussions, identifying a missing resource-ownership check and incorporating reviewer feedback into tested fixes.
 - Redesigned job recommendation ranking using a weighted scoring model combining skill-fit ratio and posting freshness.
 - Developed 13 automated tests using Jest and a real PostgreSQL test database, covering ranking behavior, date boundaries, and deterministic ordering.
 - Compared test results against the main branch to distinguish existing failures from new regressions.
-- Collaborate through peer code reviews and design discussions, identifying a missing resource-ownership check and incorporating reviewer feedback into tested fixes.
 
 **Stack:** `TypeScript` `NestJS` `PostgreSQL` `Jest`
 
@@ -128,7 +128,7 @@ Contributing to a nonprofit website as part of a three-person development team.
 
 - Integrated Strapi CMS into a React/TypeScript application, enabling non-technical staff to manage website content.
 - Collaborated with the project lead to clarify requirements and research Railway's private networking before implementing a Node.js proxy.
-- Identified and fixed a path traversal vulnerability during code review and added 14 automated security tests.
+- Identified a path traversal vulnerability during code review, reported a reproducible fix, and added 14 automated security tests.
 - Implemented section-level content fallbacks to maintain website functionality when CMS requests fail.
 
 **Stack:** `React` `TypeScript` `Node.js` `Strapi` `Railway`
@@ -150,7 +150,6 @@ Supporting students in exploring career opportunities through Langara's career d
 
 I'm interested in opportunities involving **Backend Engineering, Software Development, Full-Stack Development, and Test Automation**.
 
-[GitHub](https://github.com/herman-li-dev) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/herman-li-dev) · [LinkedIn](https://www.linkedin.com/in/herman-li-dev)
 
 </div>
-
